@@ -1,0 +1,13 @@
+.cache/pip/
+
+.local/
+
+.ssh/
+
+.streamlit/
+
+.bash_logout
+
+.bash_profile
+
+.bashrc
